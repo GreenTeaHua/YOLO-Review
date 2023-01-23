@@ -1,3 +1,7 @@
+# 更新的资料
+
+【综述】一文看懂YOLO系列：YOLOV6、YOLOX、PPYOLO、PPYOLOE、YOLOV5，https://zhuanlan.zhihu.com/p/533243893
+
 # 基于深度学习的YOLO目标检测综述 
 
 https://jeit.ac.cn/cn/article/doi/10.11999/JEIT210790
